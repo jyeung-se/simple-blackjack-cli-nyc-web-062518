@@ -43,7 +43,6 @@ end
 
 def invalid_command
   puts "Please enter a valid command"
-  return prompt_user
 end
 
 #####################################################
