@@ -38,6 +38,7 @@ def hit?(number)
     card_total += deal_card
   elsif get_user_input == "s"
   #do nothing
+  else
   end
   card_total
 end
